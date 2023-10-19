@@ -1,0 +1,50 @@
+.tshirt {
+    background-color: #f2f2f2;
+    border: 1px solid #000; 
+    border-width: 6px;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px; 
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: #333;
+    width: auto;
+    box-sizing: border-box; 
+    display: inline-block; 
+    vertical-align: top;
+    min-height: 670px;
+}
+
+.tshirt button {
+    background-color: #0078d4;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+
+.tshirt h2 {
+    font-size: 24px;
+}
+
+.colors-list {
+    list-style-type: none;
+}
+
+.tshirt img {
+    max-height: 360px; 
+    width: auto;
+    display: block;
+    margin: 0 auto; 
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+}
